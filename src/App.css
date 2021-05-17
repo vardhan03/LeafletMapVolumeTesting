@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.leaflet-container {
+  width: 80vw;
+  height: 80vh;
+}
+
+.markercluster-map { 
+  height: 80vh; 
+}
